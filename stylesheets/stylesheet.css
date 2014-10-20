@@ -7,15 +7,15 @@ div#A1{
 	top: 12;
 }
 div#A2{
-background-color: blue;
+	background-color: green;
 	width: 50px;
-	height: 50px;
+	height: 100px;
 	position: absolute;
 	left: 88;
 	top: 12;
 }
 div#A3{
-background-color: blue;
+	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
@@ -23,7 +23,7 @@ background-color: blue;
 	top: 12;
 }
 div#A4{
-background-color: blue;
+	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
