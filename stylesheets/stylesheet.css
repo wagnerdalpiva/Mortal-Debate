@@ -9,10 +9,7 @@ div#A1{
 div#A2{
 	background-color: green;
 	width: 50px;
-	height: 100px;
-	position: absolute;
-	left: 88;
-	top: 12;
+	height: 50px;
 }
 div#A3{
 	background-color: blue;
