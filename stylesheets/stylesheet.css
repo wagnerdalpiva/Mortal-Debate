@@ -27,8 +27,6 @@ background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 230;
-	top: 12;
 }
 div#B1{
 	background-color: blue;
@@ -102,7 +100,7 @@ div#botaos{
 	cursor: pointer;
 }
 div#barra1{
-	background-image:url('barra.jpg'); 
+	background-color: red; 
 	width: 500px;
 	height: 30px;
 	position: absolute;
@@ -112,7 +110,7 @@ div#barra1{
 	font-size: 25;
 }
 div#barra2{
-	background-image:url('barra.jpg');
+	background-color: red;
 	width: 500px;
 	height: 30px;
 	position: absolute;
@@ -122,7 +120,7 @@ div#barra2{
 	font-size: 25;
 }
 div#divaun{
-	background-color: red;
+	background-color: black;
 	width: 1200px;
 	height: 55px;
 	color: white;
@@ -132,14 +130,14 @@ div#divaun{
 	display: table-cell;
 }
 div#carinha1{
-
+	background-clor: red;
 	width: 300px;
 	height: 300px;
 	position: absolute;
 	top: 100;
 }
 div#carinha2{
-
+	background-clor:blue;
 	width: 300px;
 	height: 300px;
 	position: absolute;
