@@ -1,61 +1,66 @@
 div#A1{
-	background-color: red;
+	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 15;
-	top: 12;
+	left: 15px;
+	top: 12px;
 }
 div#A2{
-	background-color: green;
+	background-color: blue;
 	width: 50px;
 	height: 50px;
+	position: absolute;
+	left: 88px;
+	top: 12px;
 }
 div#A3{
 	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 158;
-	top: 12;
+	left: 158px;
+	top: 12px;
 }
 div#A4{
 	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
+	left: 230px;
+	top: 12px;
 }
 div#B1{
 	background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 15;
-	top: 12;
+	left: 15px;
+	top: 12px;
 }
 div#B2{
 background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 88;
-	top: 12;
+	left: 88px;
+	top: 12px;
 }
 div#B3{
 background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 158;
-	top: 12;
+	left: 158px;
+	top: 12px;
 }
 div#B4{
 background-color: blue;
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	left: 230;
-	top: 12;
+	left: 230px;
+	top: 12px;
 	}
 div#botoes{
 	position: absolute;
@@ -65,9 +70,11 @@ div#botoes{
 	border: 3px solid;
 	padding: 2px;
 	font-size: 40;
-	font-family: Calibri;
-	background-color: 0000255;
+	font-family: arial;
+	background-color: #000080;
 	cursor: pointer;
+	text-align: center;
+	vertical-align:middle;
 }
 div#boton{
 	position: absolute;
@@ -97,12 +104,12 @@ div#botaos{
 	cursor: pointer;
 }
 div#barra1{
-	background-image: url('images/barra.jpg'); 
+	background-image: barra.jpg; 
 	width: 500px;
 	height: 30px;
 	position: absolute;
-	top:20;
-	left: 50;
+	top:200px;
+	left: 50px;
 	color: white;
 	font-size: 25;
 }
@@ -117,14 +124,13 @@ div#barra2{
 	font-size: 25;
 }
 div#divaun{
-	background-color: black;
+	background-image: barra.jpg;
 	width: 1200px;
 	height: 55px;
 	color: white;
 	font-size:25;
 	text-align:center;
-	vertical-align:middle;
-	display: table-cell;
+
 }
 div#carinha1{
 	background-clor: red;
