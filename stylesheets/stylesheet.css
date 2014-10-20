@@ -43,6 +43,170 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+div#A1{
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 15;
+	top: 12;
+}
+div#A2{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 88;
+	top: 12;
+}
+div#A3{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 158;
+	top: 12;
+}
+div#A4{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 230;
+	top: 12;
+}
+div#B1{
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 15;
+	top: 12;
+}
+div#B2{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 88;
+	top: 12;
+}
+div#B3{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 158;
+	top: 12;
+}
+div#B4{
+background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 230;
+	top: 12;
+	}
+div#botoes{
+	position: absolute;
+	top: 450px;
+	width: 290px;
+	height: 70px;
+	border: 3px solid;
+	padding: 2px;
+	font-size: 40;
+	font-family: Calibri;
+	background-color: 0000255;
+	cursor: pointer;
+}
+div#boton{
+	position: absolute;
+	top: 450px;
+	left: 520px;
+	width: 200px;
+	height: 70px;
+	font-size: 40;
+	color: white;
+	font-family: Calibri;
+	background-color: FFFFFF;
+	cursor: pointer;
+	vertical-align:middle;
+	text-align:center;
+}
+div#botaos{
+	position: absolute;
+	top: 450px;
+	left: 907px;
+	width: 290px;
+	height: 70px;
+	border: 3px solid;
+	padding: 2px;
+	font-size: 40;
+	font-family: Calibri;
+	background-color: 0000255;
+	cursor: pointer;
+}
+div#barra1{
+	background-image:url('barra.jpg'); 
+	width: 500px;
+	height: 30px;
+	position: absolute;
+	top:20;
+	left: 50;
+	color: white;
+	font-size: 25;
+}
+div#barra2{
+	background-image:url('barra.jpg');
+	width: 500px;
+	height: 30px;
+	position: absolute;
+	top: 20;
+	right: 205px;
+	color: white;
+	font-size: 25;
+}
+div#divaun{
+	background-color: 000000;
+	width: 1200px;
+	height: 55px;
+	color: white;
+	font-size:25;
+	text-align:center;
+	vertical-align:middle;
+	display: table-cell;
+}
+div#carinha1{
+
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 100;
+}
+div#carinha2{
+
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 100;
+	left: 907;
+}
+div#poderzin1{
+	background-image: url('img/poderzin');
+	width: 600px;
+	height: 100px;
+	position: absolute;
+	top: 150;
+	left: 305;
+}
+div#poderzin2{
+	background-color: white;
+	width: 600px;
+	height: 100px;
+	position: absolute;
+	top: 250;
+	left: 308;
+}
 
 /*******************************************************************************
 Theme Styles
