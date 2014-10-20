@@ -1,4 +1,3 @@
-<script type="text/javascript" scr="main.js">
 	x = "null";
 	y ="null";
 	do{
@@ -793,5 +792,3 @@
 		}
 		
 	}
-		
-</script>
